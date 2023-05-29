@@ -11,7 +11,9 @@ The Flip Flop Algorithm (FFA) Hash is a hash which was designed by RoyzerM in a 
 3. Input an ASCII string you desire to be hashed!
 
 # Notes
-Keep in mind that once you have opened up "Packages.py", you may delete it since you've already installed the required packages.
+
+- Keep in mind that once you have opened up "Packages.py", you may delete it since you've already installed the required packages.
+- Windows Defender flags this folder and will run a scan since the "Hash.exe" file has been obfuscated. Windows Defender shouldn't end up removing the folder upon installation.
 
 # License
 
