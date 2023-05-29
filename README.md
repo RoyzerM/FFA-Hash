@@ -4,11 +4,8 @@ The Flip Flop Algorithm (FFA) Hash is a hash which was designed by RoyzerM in a 
 
 # Guide
 
-1. Open "Packages.py" to ensure you have the required modules installed.
-
-2. "Packages.py" automatically opens "Hash.exe" as a follow up to downloading the packages.
-
-3. Input an ASCII string you desire to be hashed!
+1. Open "Hash.exe".
+2. Input an ASCII string you desire to be hashed!
 
 # Notes
 
