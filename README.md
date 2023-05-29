@@ -17,4 +17,4 @@ The Flip Flop Algorithm (FFA) Hash is a hash which was designed by RoyzerM in a 
 
 # License
 
-This hash is under license from Apache. For further details, open the LICENSE file.
+This hash is under license from Apache. For further details, open the [LICENSE](https://github.com/RoyzerM/FFA-Hash/blob/main/LICENSE) file.
